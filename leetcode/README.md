@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**1** problems solved — 1 Easy · 0 Medium · 0 Hard
+**2** problems solved — 1 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -15,6 +15,7 @@
 | # | Title | Difficulty | Topics |
 | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
+| 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | Database |
 
 ## By Difficulty
 
@@ -24,9 +25,11 @@
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 
-### Medium (0)
+### Medium (1)
 
-_No problems solved yet._
+| # | Title | Topics |
+| --- | --- | --- |
+| 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Database |
 
 ### Hard (0)
 
@@ -40,6 +43,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+
+</details>
+
+<details>
+<summary>Database (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium |
 
 </details>
 
@@ -64,6 +76,15 @@ _No problems solved yet._
 ## By Language
 
 <details>
+<summary>mysql (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium |
+
+</details>
+
+<details>
 <summary>python3 (1)</summary>
 
 | # | Title | Difficulty |
@@ -76,4 +97,5 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | 2026-10-21 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-19 |

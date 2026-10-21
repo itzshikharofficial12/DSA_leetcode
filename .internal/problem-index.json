@@ -12,5 +12,17 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-19T07:53:51.376Z"
+  },
+  {
+    "folderId": "leetcode/0176-second-highest-salary",
+    "frontendId": "176",
+    "title": "Second Highest Salary",
+    "slug": "second-highest-salary",
+    "difficulty": "Medium",
+    "topics": [
+      "Database"
+    ],
+    "language": "mysql",
+    "acceptedAt": "2026-10-21T09:28:37.186Z"
   }
 ]

@@ -1,0 +1,20 @@
+{
+  "platform": "leetcode",
+  "problemId": "176",
+  "frontendId": "176",
+  "title": "Second Highest Salary",
+  "slug": "second-highest-salary",
+  "difficulty": "Medium",
+  "topics": [
+    "Database"
+  ],
+  "companyTags": [],
+  "language": "mysql",
+  "runtime": "328 ms",
+  "memory": "0B",
+  "submissionId": "2177803280",
+  "acceptedAt": "2026-10-21T09:28:37.186Z",
+  "updatedAt": "2026-10-21T09:28:38.020Z",
+  "url": "https://leetcode.com/problems/second-highest-salary/",
+  "version": 1
+}

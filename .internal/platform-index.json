@@ -1,5 +1,6 @@
 {
   "leetcode": [
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/0176-second-highest-salary"
   ]
 }

@@ -7,5 +7,8 @@
   ],
   "Trie": [
     "leetcode/0014-longest-common-prefix"
+  ],
+  "Database": [
+    "leetcode/0176-second-highest-salary"
   ]
 }
