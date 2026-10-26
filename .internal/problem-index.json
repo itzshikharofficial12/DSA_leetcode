@@ -51,5 +51,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T12:42:52.513Z"
+  },
+  {
+    "folderId": "leetcode/1380-lucky-numbers-in-a-matrix",
+    "frontendId": "1380",
+    "title": "Lucky Numbers in a Matrix",
+    "slug": "lucky-numbers-in-a-matrix",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T13:00:01.446Z"
   }
 ]

@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1496",
+  "frontendId": "1380",
+  "title": "Lucky Numbers in a Matrix",
+  "slug": "lucky-numbers-in-a-matrix",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "2 ms",
+  "memory": "19.7 MB",
+  "submissionId": "2182224522",
+  "acceptedAt": "2026-10-26T13:00:01.446Z",
+  "updatedAt": "2026-10-26T13:00:02.628Z",
+  "url": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/",
+  "version": 1
+}
