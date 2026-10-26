@@ -1,6 +1,7 @@
 {
   "Array": [
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/1672-richest-customer-wealth"
   ],
   "String": [
     "leetcode/0014-longest-common-prefix"
@@ -10,5 +11,8 @@
   ],
   "Database": [
     "leetcode/0176-second-highest-salary"
+  ],
+  "Matrix": [
+    "leetcode/1672-richest-customer-wealth"
   ]
 }

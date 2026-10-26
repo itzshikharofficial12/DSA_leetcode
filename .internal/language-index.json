@@ -1,6 +1,7 @@
 {
   "python3": [
-    "leetcode/0014-longest-common-prefix"
+    "leetcode/0014-longest-common-prefix",
+    "leetcode/1672-richest-customer-wealth"
   ],
   "mysql": [
     "leetcode/0176-second-highest-salary"

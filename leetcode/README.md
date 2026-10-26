@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**2** problems solved — 1 Easy · 1 Medium · 0 Hard
+**3** problems solved — 2 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -16,14 +16,16 @@
 | --- | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | Database |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
 
 ## By Difficulty
 
-### Easy (1)
+### Easy (2)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 
 ### Medium (1)
 
@@ -38,11 +40,12 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (1)</summary>
+<summary>Array (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
 </details>
 
@@ -52,6 +55,15 @@ _No problems solved yet._
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium |
+
+</details>
+
+<details>
+<summary>Matrix (1)</summary>
+
+| # | Title | Difficulty |
+| --- | --- | --- |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
 </details>
 
@@ -85,11 +97,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (1)</summary>
+<summary>python3 (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 
 </details>
 
@@ -97,5 +110,6 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-26 |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | 2026-10-21 |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | 2026-10-19 |
