@@ -37,5 +37,19 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T12:25:28.613Z"
+  },
+  {
+    "folderId": "leetcode/2022-convert-1d-array-into-2d-array",
+    "frontendId": "2022",
+    "title": "Convert 1D Array Into 2D Array",
+    "slug": "convert-1d-array-into-2d-array",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T12:42:52.513Z"
   }
 ]

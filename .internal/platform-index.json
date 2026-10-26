@@ -2,6 +2,7 @@
   "leetcode": [
     "leetcode/0014-longest-common-prefix",
     "leetcode/0176-second-highest-salary",
-    "leetcode/1672-richest-customer-wealth"
+    "leetcode/1672-richest-customer-wealth",
+    "leetcode/2022-convert-1d-array-into-2d-array"
   ]
 }

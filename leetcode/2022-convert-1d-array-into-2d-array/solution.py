@@ -1,0 +1,9 @@
+# Runtime: 10 ms
+# Memory: 25.3 MB
+
+class Solution:
+    def construct2DArray(self, original: list[int], m: int, n: int) -> list[list[int]]:
+        if len(original) != m*n:
+            return []
+
+        return [original[i * n:(i + 1) * n] for i in range(m)]
