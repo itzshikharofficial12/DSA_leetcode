@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**5** problems solved — 4 Easy · 1 Medium · 0 Hard
+**6** problems solved — 5 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -17,17 +17,19 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | Database |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy | Array, Matrix |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy | Array, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy | Array, Matrix, Simulation |
 
 ## By Difficulty
 
-### Easy (4)
+### Easy (5)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Array, Matrix |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Array, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Array, Matrix, Simulation |
 
@@ -44,12 +46,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (4)</summary>
+<summary>Array (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 
@@ -65,11 +68,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Matrix (3)</summary>
+<summary>Matrix (4)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 
@@ -114,12 +118,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (4)</summary>
+<summary>python3 (5)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy |
 
@@ -129,6 +134,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy | 2026-10-26 |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy | 2026-10-26 |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Easy | 2026-10-26 |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | 2026-10-26 |

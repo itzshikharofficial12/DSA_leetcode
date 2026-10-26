@@ -64,5 +64,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-26T13:00:01.446Z"
+  },
+  {
+    "folderId": "leetcode/1572-matrix-diagonal-sum",
+    "frontendId": "1572",
+    "title": "Matrix Diagonal Sum",
+    "slug": "matrix-diagonal-sum",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Matrix"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-26T13:08:49.623Z"
   }
 ]

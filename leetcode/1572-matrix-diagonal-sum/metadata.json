@@ -1,0 +1,21 @@
+{
+  "platform": "leetcode",
+  "problemId": "1677",
+  "frontendId": "1572",
+  "title": "Matrix Diagonal Sum",
+  "slug": "matrix-diagonal-sum",
+  "difficulty": "Easy",
+  "topics": [
+    "Array",
+    "Matrix"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "0 ms",
+  "memory": "19.3 MB",
+  "submissionId": "2182231367",
+  "acceptedAt": "2026-10-26T13:08:49.623Z",
+  "updatedAt": "2026-10-26T13:08:50.452Z",
+  "url": "https://leetcode.com/problems/matrix-diagonal-sum/",
+  "version": 1
+}
