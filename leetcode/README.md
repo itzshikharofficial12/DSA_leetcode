@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**7** problems solved — 6 Easy · 1 Medium · 0 Hard
+**8** problems solved — 7 Easy · 1 Medium · 0 Hard
 
 ## Contents
 
@@ -17,6 +17,7 @@
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy | Array, String, Trie |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Medium | Database |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy | Array, Matrix |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy | Array, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
@@ -24,12 +25,13 @@
 
 ## By Difficulty
 
-### Easy (6)
+### Easy (7)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Array, String, Trie |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Array, Two Pointers, Greedy, Sorting, Quicksort |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Array, Greedy |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Array, Matrix |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Array, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
@@ -48,12 +50,13 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (6)</summary>
+<summary>Array (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
@@ -71,11 +74,12 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (1)</summary>
+<summary>Greedy (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 
 </details>
 
@@ -157,12 +161,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (6)</summary>
+<summary>python3 (7)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
@@ -174,6 +179,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-27 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy | 2026-10-26 |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy | 2026-10-26 |

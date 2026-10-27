@@ -93,5 +93,18 @@
     ],
     "language": "python3",
     "acceptedAt": "2026-10-27T12:36:31.045Z"
+  },
+  {
+    "folderId": "leetcode/0860-lemonade-change",
+    "frontendId": "860",
+    "title": "Lemonade Change",
+    "slug": "lemonade-change",
+    "difficulty": "Easy",
+    "topics": [
+      "Array",
+      "Greedy"
+    ],
+    "language": "python3",
+    "acceptedAt": "2026-10-27T13:05:46.252Z"
   }
 ]
