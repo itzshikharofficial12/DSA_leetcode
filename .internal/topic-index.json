@@ -4,7 +4,8 @@
     "leetcode/1672-richest-customer-wealth",
     "leetcode/2022-convert-1d-array-into-2d-array",
     "leetcode/1380-lucky-numbers-in-a-matrix",
-    "leetcode/1572-matrix-diagonal-sum"
+    "leetcode/1572-matrix-diagonal-sum",
+    "leetcode/0455-assign-cookies"
   ],
   "String": [
     "leetcode/0014-longest-common-prefix"
@@ -23,5 +24,17 @@
   ],
   "Simulation": [
     "leetcode/2022-convert-1d-array-into-2d-array"
+  ],
+  "Two Pointers": [
+    "leetcode/0455-assign-cookies"
+  ],
+  "Greedy": [
+    "leetcode/0455-assign-cookies"
+  ],
+  "Sorting": [
+    "leetcode/0455-assign-cookies"
+  ],
+  "Quicksort": [
+    "leetcode/0455-assign-cookies"
   ]
 }
