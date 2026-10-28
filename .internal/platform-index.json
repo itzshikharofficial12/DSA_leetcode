@@ -7,6 +7,7 @@
     "leetcode/1380-lucky-numbers-in-a-matrix",
     "leetcode/1572-matrix-diagonal-sum",
     "leetcode/0455-assign-cookies",
-    "leetcode/0860-lemonade-change"
+    "leetcode/0860-lemonade-change",
+    "leetcode/0451-sort-characters-by-frequency"
   ]
 }
