@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**9** problems solved — 7 Easy · 2 Medium · 0 Hard
+**10** problems solved — 7 Easy · 3 Medium · 0 Hard
 
 ## Contents
 
@@ -19,6 +19,7 @@
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | Array, Two Pointers, Greedy, Sorting, Quicksort |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | Array, Greedy |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy | Array, Matrix |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy | Array, Matrix |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy | Array, Matrix |
@@ -38,12 +39,13 @@
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Array, Matrix |
 | 2022 | [Convert 1D Array Into 2D Array](2022-convert-1d-array-into-2d-array/README.md) | Array, Matrix, Simulation |
 
-### Medium (2)
+### Medium (3)
 
 | # | Title | Topics |
 | --- | --- | --- |
 | 0176 | [Second Highest Salary](0176-second-highest-salary/README.md) | Database |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Hash Table, String, Sorting, Heap (Priority Queue), Bucket Sort, Counting |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Array, Hash Table, Greedy, Sorting, Heap (Priority Queue) |
 
 ### Hard (0)
 
@@ -52,13 +54,14 @@ _No problems solved yet._
 ## By Topic
 
 <details>
-<summary>Array (7)</summary>
+<summary>Array (8)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0014 | [Longest Common Prefix](0014-longest-common-prefix/README.md) | Easy |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
@@ -94,30 +97,33 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Greedy (2)</summary>
+<summary>Greedy (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Hash Table (1)</summary>
+<summary>Hash Table (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
 <details>
-<summary>Heap (Priority Queue) (1)</summary>
+<summary>Heap (Priority Queue) (2)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
@@ -152,12 +158,13 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>Sorting (2)</summary>
+<summary>Sorting (3)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 
 </details>
 
@@ -201,7 +208,7 @@ _No problems solved yet._
 </details>
 
 <details>
-<summary>python3 (8)</summary>
+<summary>python3 (9)</summary>
 
 | # | Title | Difficulty |
 | --- | --- | --- |
@@ -209,6 +216,7 @@ _No problems solved yet._
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium |
 | 1380 | [Lucky Numbers in a Matrix](1380-lucky-numbers-in-a-matrix/README.md) | Easy |
 | 1572 | [Matrix Diagonal Sum](1572-matrix-diagonal-sum/README.md) | Easy |
 | 1672 | [Richest Customer Wealth](1672-richest-customer-wealth/README.md) | Easy |
@@ -220,6 +228,7 @@ _No problems solved yet._
 
 | # | Title | Difficulty | Solved On |
 | --- | --- | --- | --- |
+| 1338 | [Reduce Array Size to The Half](1338-reduce-array-size-to-the-half/README.md) | Medium | 2026-10-28 |
 | 0451 | [Sort Characters By Frequency](0451-sort-characters-by-frequency/README.md) | Medium | 2026-10-28 |
 | 0860 | [Lemonade Change](0860-lemonade-change/README.md) | Easy | 2026-10-27 |
 | 0455 | [Assign Cookies](0455-assign-cookies/README.md) | Easy | 2026-10-27 |
