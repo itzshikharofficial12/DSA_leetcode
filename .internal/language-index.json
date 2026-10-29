@@ -9,7 +9,8 @@
     "leetcode/0860-lemonade-change",
     "leetcode/0451-sort-characters-by-frequency",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/2208-minimum-operations-to-halve-array-sum"
+    "leetcode/2208-minimum-operations-to-halve-array-sum",
+    "leetcode/0057-insert-interval"
   ],
   "mysql": [
     "leetcode/0176-second-highest-salary"
