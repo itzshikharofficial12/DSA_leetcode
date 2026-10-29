@@ -1,0 +1,22 @@
+{
+  "platform": "leetcode",
+  "problemId": "11",
+  "frontendId": "11",
+  "title": "Container With Most Water",
+  "slug": "container-with-most-water",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Two Pointers",
+    "Greedy"
+  ],
+  "companyTags": [],
+  "language": "python3",
+  "runtime": "54 ms",
+  "memory": "29.3 MB",
+  "submissionId": "2184474565",
+  "acceptedAt": "2026-10-29T06:04:21.187Z",
+  "updatedAt": "2026-10-29T06:04:22.133Z",
+  "url": "https://leetcode.com/problems/container-with-most-water/",
+  "version": 1
+}

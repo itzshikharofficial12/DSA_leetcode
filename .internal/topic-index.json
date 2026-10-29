@@ -9,7 +9,8 @@
     "leetcode/0860-lemonade-change",
     "leetcode/1338-reduce-array-size-to-the-half",
     "leetcode/2208-minimum-operations-to-halve-array-sum",
-    "leetcode/0057-insert-interval"
+    "leetcode/0057-insert-interval",
+    "leetcode/0011-container-with-most-water"
   ],
   "String": [
     "leetcode/0014-longest-common-prefix",
@@ -31,13 +32,15 @@
     "leetcode/2022-convert-1d-array-into-2d-array"
   ],
   "Two Pointers": [
-    "leetcode/0455-assign-cookies"
+    "leetcode/0455-assign-cookies",
+    "leetcode/0011-container-with-most-water"
   ],
   "Greedy": [
     "leetcode/0455-assign-cookies",
     "leetcode/0860-lemonade-change",
     "leetcode/1338-reduce-array-size-to-the-half",
-    "leetcode/2208-minimum-operations-to-halve-array-sum"
+    "leetcode/2208-minimum-operations-to-halve-array-sum",
+    "leetcode/0011-container-with-most-water"
   ],
   "Sorting": [
     "leetcode/0455-assign-cookies",
